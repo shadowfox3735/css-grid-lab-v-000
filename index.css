@@ -19,5 +19,5 @@ body {
 
 /* add the .bigItem class */
 .bigItem {
-  grid-area: footer-start / 2 / footer-end / 4;
+  grid-area: footer-start / 1 / footer-end / 4;
 }
